@@ -1,0 +1,24 @@
+﻿  Source.cpp
+D:\projects\Document_scanner\Source.cpp(36,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\projects\Document_scanner\Source.cpp(40,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\projects\Document_scanner\Source.cpp(80,49): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\projects\Document_scanner\Source.cpp(80,46): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\projects\Document_scanner\Source.cpp(106,50): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\projects\Document_scanner\Source.cpp(106,31): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  Document_scanner.vcxproj -> D:\projects\Document_scanner\x64\Debug\Document_scanner.exe

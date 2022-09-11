@@ -1,0 +1,2 @@
+D:\TE\Document_scanner\x64\Debug\Document_scanner.exe
+D:\projects\Document_scanner\x64\Debug\Document_scanner.exe
